@@ -1,10 +1,10 @@
 ## 👋 Hello! I'm Kammili Venkata Satya Naveen
 
-🎯 Java | Spring Boot | Microservices | MySQL | AWS
-💼 Building: Quiz App  
-📚 Learning: System Design | DSA | React.js
-🌱 Open to internships and collabs  
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kammili-venkata-satya-naveen/) | [Email](mailto:naveenkammili07@gmail.com)
+🎯 **Tech Stack**: Java | Spring Boot | Microservices | MySQL | AWS  
+💼 **Currently Building**: Quiz App  
+📚 **Learning**: System Design | DSA | React.js  
+🌱 **Looking for**: Internships and collaborations  
+📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/kammili-venkata-satya-naveen/) | [Email](mailto:naveenkammili07@gmail.com)
 
 ---
 
