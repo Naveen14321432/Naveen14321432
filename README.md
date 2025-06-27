@@ -29,16 +29,16 @@
 
 ### 📂 Projects to Check Out
 
-- 🔹 [quizapp-microservices-question-service]([https://github.com/githubusername/quizapp-microservices-question-service](https://github.com/Naveen14321432/quizapp-microservice-questionService))  
+- 🔹 [quizapp-microservices-question-service](https://github.com/Naveen14321432/quizapp-microservice-questionService)
   Microservice responsible for storing and managing quiz questions using Spring Boot and MySQL.
 
-- 🔹 [quizapp-microservices-quiz-service]([https://github.com/githubusername/quizapp-microservices-quiz-service](https://github.com/Naveen14321432/quizapp-microservice-quiz-service))  
+- 🔹 [quizapp-microservices-quiz-service](https://github.com/Naveen14321432/quizapp-microservice-quiz-service)
   Generates quizzes dynamically by communicating with the question-service via Feign Client.
 
-- 🔹 [quizapp-microservices-eureka-server]([https://github.com/githubusername/quizapp-microservices-eureka-server](https://github.com/Naveen14321432/quizapp-microservice-eureka-server))  
+- 🔹 [quizapp-microservices-eureka-server](https://github.com/Naveen14321432/quizapp-microservice-eureka-server)  
   Centralized service registry (Eureka Server) for discovering and managing microservices in the quiz app architecture.
 
-- 🔹 [portfolio-react]([https://github.com/githubusername/portfolio-react](https://github.com/Naveen14321432/portfolio-react))  
+- 🔹 [portfolio-react](https://github.com/Naveen14321432/portfolio-react)  
   Personal portfolio website built with React.js, showcasing skills, projects, and contact info.
 
 - 🔹 [mern-hotel-booking](https://github.com/Naveen14321432/MERN-Hotel-Booking)  
